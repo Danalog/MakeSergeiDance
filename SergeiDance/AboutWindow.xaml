@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SergeiDance"
         mc:Ignorable="d"
-        Title="About" Height="200" Width="300">
+        Title="About" Height="200" Width="300"
+        ResizeMode="NoResize">
     <Grid>
         <TextBlock x:Name="textBlock_name" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Make Sergei Dance" VerticalAlignment="Bottom" Margin="95,0,0,118"/>
         <TextBlock x:Name="textBlock_ver" HorizontalAlignment="Left" TextWrapping="Wrap" Text="v1.0.0" VerticalAlignment="Bottom" Margin="130,0,0,83"/>

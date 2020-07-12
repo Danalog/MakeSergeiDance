@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SergeiDance"
         mc:Ignorable="d"
-        Title="Make Sergei Dance" Height="420" Width="580" Closed="Window_Closed">
+        Title="Make Sergei Dance" Height="420" Width="580" Closed="Window_Closed"
+        ResizeMode="NoResize">
     <Grid>
         <DockPanel HorizontalAlignment="Left" Height="20" LastChildFill="False" VerticalAlignment="Top" Width="572">
             <Menu x:Name="menu" DockPanel.Dock="Top">
