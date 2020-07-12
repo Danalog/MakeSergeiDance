@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeSergeiDance", "MakeSergeiDance.csproj", "{C9950293-88AB-4C8E-AFFA-6DD924B8BD05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SergeiDance", "SergeiDance\SergeiDance.csproj", "{D03BCDA8-33E0-450A-A253-62EE2B4E7B62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C9950293-88AB-4C8E-AFFA-6DD924B8BD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C9950293-88AB-4C8E-AFFA-6DD924B8BD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C9950293-88AB-4C8E-AFFA-6DD924B8BD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C9950293-88AB-4C8E-AFFA-6DD924B8BD05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03BCDA8-33E0-450A-A253-62EE2B4E7B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03BCDA8-33E0-450A-A253-62EE2B4E7B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03BCDA8-33E0-450A-A253-62EE2B4E7B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03BCDA8-33E0-450A-A253-62EE2B4E7B62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
